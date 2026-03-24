@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="mailto:contato@pedrohenriqueprand@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white-EA4335">
   </a>
 
 <div align="center">
