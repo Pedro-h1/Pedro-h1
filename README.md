@@ -54,11 +54,6 @@
   </a>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-prandwiski-borges/">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-Gmail-%23ea4335?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=1">
-  </a>
-
-<div align="center">
 
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
 
