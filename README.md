@@ -14,7 +14,7 @@
 
 <div align="center">
   <b>Sobre mim:</b>
-  <p>Estudante de programação Front-End no SENAI e também autodidata.</p>
+  <p>Estudante de Desenvolvimento de Sistemaas no SENAI A. Jacob Lafer e também autodidata.</p>
   <p>Sou apaixonado pela área de Web Design, sendo experiente nela e em Design UX e UI.</p>
 </div>
 
