@@ -39,7 +39,7 @@
   <tr>
     <td>
       <!-- stats para a conta Pedro-h-index -->
-      <img alt="GitHub Stats (Pedro-h-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h&theme=radical&show_icons=true&count_private=true&hide=issues">
+      <img alt="GitHub Stats (Pedro-h-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h1&theme=radical&show_icons=true&count_private=true&hide=issues">
     </td>
     <td>
       <!-- linguagens para a conta Pedro-h1-index -->
