@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007bff&width=435&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Sejam+bem-vindos+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Sejam+bem-vindos+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=6793F7&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2500&color=6793F7&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
 
 </div>
 
