@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=26&duration=4500&color=bd93f9&width=700&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   
