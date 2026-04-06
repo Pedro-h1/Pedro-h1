@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=4500&color=bd93f9&width=700&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Sejam+bem-vindos+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=26&duration=4500&color=bd93f9&width=700&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Work+Sans&size=24&duration=4500&color=bd93f9&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Work+Sans&size=22&duration=4500&color=bd93f9&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,52 +10,35 @@
   <img src="1025272671423846306-ezgif.com-loop-count.gif" width="300">
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Pedro-h1)
+# [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Pedro-h1)
 
 <div align="center">
-  <strong>👨‍💻 Sobre mim:</strong>
-  <p>🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI A. Jacob Lafer</strong> e também autodidata.</p>
-  <p>🎨 Sou apaixonado pela área de Web Design, sendo experiente nela e em Design UX/UI.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&color=bd93f9&center=true&vCenter=true&width=300&lines=👨‍💻+Sobre+mim" />
 </div>
 
-<p align="center"><strong>🚀 My Stack:</strong></p>
-<p align="center">
-  <a href="https://github.com/Pedro-h1-index">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50">
-    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" width="50">
-  </a>
-</p>
+<div align="center">
+  <p>🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI A. Jacob Lafer</strong> e também autodidata.</p>
+  <p>🎨 Apaixonado por Web Design e com experiência em UX/UI.</p>
+</div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-h1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+---
 
 <div align="center">
-  <a href="mailto:contato@pedrohenriqueprand@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-%23ea4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/pedro-henrique-prandwiski-borges/" target="_blank">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&color=bd93f9&center=true&vCenter=true&width=250&lines=🚀+My+Stack" />
+</div>
 
-  <a href="" target="_blank">
-    <img alt="Localização" src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-green?style=for-the-badge&logo=location&logoColor=white">
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,figma,github,vscode" />
+</p>
+
+---
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-bd93f9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@pedrohenriqueprand@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-prandwiski-borges/)
+![Localização](https://img.shields.io/badge/São_Paulo-BR-bd93f9?style=for-the-badge&logo=location&logoColor=white)
+
 </div>
 
 <div align="center">
