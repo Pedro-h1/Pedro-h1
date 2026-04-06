@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="1025272671423846306.gif" width="300">
+  <img src="1025272671423846306-ezgif.com-loop-count.gif" width="300">
 </div>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Pedro-h1)
