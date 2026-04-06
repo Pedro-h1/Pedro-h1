@@ -13,7 +13,7 @@
 # [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Pedro-h1)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&color=bd93f9&center=true&vCenter=true&width=300&lines=👨‍💻+Sobre+mim" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&duration=6000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=300&lines=👨‍💻+Sobre+mim" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&color=bd93f9&center=true&vCenter=true&width=250&lines=🚀+My+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&duration=6000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=250&lines=🚀+My+Stack" />
 </div>
 
 <p align="center">
@@ -35,13 +35,19 @@
 
 <div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&duration=6000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=250&lines=🌐+Contato" />
+
+</div>
+
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-bd93f9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@pedrohenriqueprand@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-prandwiski-borges/)
 ![Localização](https://img.shields.io/badge/São_Paulo-BR-bd93f9?style=for-the-badge&logo=location&logoColor=white)
 
 </div>
 
-<div align="center">
+# <div align="center">
 
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
 
