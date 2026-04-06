@@ -52,6 +52,10 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-prandwiski-borges/" target="_blank">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="" target="_blank">
+    <img alt="Localização" src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-green?style=for-the-badge&logo=location&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
