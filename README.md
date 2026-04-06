@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=4500&color=6793F7&width=700&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Sejam+bem-vindos+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=4500&color=bd93f9&width=700&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Sejam+bem-vindos+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Work+Sans&size=24&duration=4500&color=6793F7&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Work+Sans&size=24&duration=4500&color=bd93f9&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
 
 </div>
 
