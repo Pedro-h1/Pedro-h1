@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=26&duration=5000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Work+Sans&size=22&duration=5000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=550&lines=UX%2FUI+Designer;Web+Designer;Front-End+Dev)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 # [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Pedro-h1)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&duration=5000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=300&lines=👨‍💻+Sobre+mim" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=👨‍💻+Sobre+mim" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&duration=5000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=250&lines=🚀+My+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=🚀+My+Stack" />
 </div>
 
 <p align="center">
@@ -38,9 +38,7 @@
 ---
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=22&duration=5000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=250&lines=🌐+Contato" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=🌐+Contato" />
 </div>
 
 <div align="center">
