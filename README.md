@@ -17,7 +17,7 @@
 # [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=dracula)](https://github.com/Pedro-h1)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=👨‍💻+Sobre+mim" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=👨🏼‍💻+Sobre+mim" />
 </div>
 
 <div align="center">
