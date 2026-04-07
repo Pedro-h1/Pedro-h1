@@ -43,6 +43,7 @@
 
 <div align="center">
 
+[![Instagram](https://img.shields.io/badge/Instagram-bd93f9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_hbgs)
 [![Gmail](https://img.shields.io/badge/Gmail-bd93f9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@pedrohenriqueprand@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-prandwiski-borges/)
 ![Localização](https://img.shields.io/badge/São_Paulo-BR-bd93f9?style=for-the-badge&logo=location&logoColor=white)
