@@ -21,9 +21,9 @@
 </div>
 
 <div align="center">
-  <p>🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI A. Jacob Lafer</strong> e cursando o 2° Ano do Ensino Médio no <strong>SESI.</strong></p>
-  <p>🎨 Apaixonado por <strong>Web Design</strong> e com experiência em <strong>Design UX/UI.</strong></p>
-  <p>👨🏼‍💻 Criando experiência na área de <strong>Programação Front End.</strong></p>
+  <p>🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI A. Jacob Lafer</strong> e cursando o 2° Ano do Ensino Médio no <strong>SESI</strong>.</p>
+  <p>🎨 Apaixonado por <strong>Web Design</strong> e com experiência em <strong>Design UX/UI</strong>.</p>
+  <p>👨🏼‍💻 Criando experiência na área de <strong>Programação Front End</strong>.</p>
 </div>
 
 ---
