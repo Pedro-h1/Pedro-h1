@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+Pedro-h1.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
@@ -26,7 +30,7 @@
   <p>👨🏼‍💻 Criando experiência na área de <strong>Programação Front End</strong>.</p>
 </div>
 
----
+#
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=🚀+My+Stack" />
@@ -36,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,figma,github,vscode" />
 </p>
 
----
+#
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&startDelay=0&color=bd93f9&center=true&vCenter=true&width=320&lines=🌐+Contato" />
@@ -55,4 +59,8 @@
 
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=bd93f9&animation=fadeIn" width="100%" />
 </div>
